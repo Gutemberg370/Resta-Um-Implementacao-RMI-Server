@@ -26,7 +26,7 @@ import java.rmi.registry.Registry;
 
 import static application.Server.HEIGHT;
 
-public class Main extends Application{
+public class Register extends Application{
 	
 	private int port;
 	private String name;
